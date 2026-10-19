@@ -1,200 +1,119 @@
-<!-- Header banner -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24c6dc&text=Devesh&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=Developer%20%C2%B7%20Builder%20%C2%B7%20Game%20%26%20Desktop%20Apps&descSize=18&descAlignY=58&animation=fadeIn" alt="Devesh banner" />
-
-<a href="https://github.com/OP-Devesh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Building+desktop+apps+with+Electron+%2B+React;Crafting+games+in+Godot+%2F+GDScript;Leveling+up+in+Python+every+day;Design-minded.+Detail-obsessed." alt="Typing animation" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=OP-Devesh&label=Profile%20views&color=302b63&style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/OP-Devesh?tab=followers"><img src="https://img.shields.io/github/followers/OP-Devesh?style=for-the-badge&logo=github&color=24C6DC&labelColor=0f0c29" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-24C6DC?style=for-the-badge&labelColor=0f0c29" alt="Open to collaboration" />
-
-</div>
-
-<br/>
-
-## 👋 About me
-
-I'm **Devesh** — a developer who loves turning ideas into polished products. I build premium-feeling desktop software, web experiences and games, and I care as much about how something *feels* as how it works. Outside the editor, I'm usually listening to music — arguably more than I'm coding.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔭 Currently**
-- Shipping a Windows wallpaper manager (Electron + React)
-- Building a game in Godot
-- Deepening my **Python**
-
-</td>
-<td width="50%" valign="top">
-
-**🤝 Open to**
-- Collaborations on creative dev projects
-- Ideas around apps, games & tooling
-- Learning from people better than me
-
-</td>
-</tr>
-</table>
-
-> 🎧 *Fun fact: I like music more than coding — and it shows in how I think about rhythm, flow and polish in my work.*
-
----
-
-## 🚀 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ Pixel Atlas Desktop
-*Premium Windows wallpaper discovery & management app.*
-
-Browse, collect and apply wallpapers from a fast, beautifully designed desktop client with a local-first library.
-
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dexie](https://img.shields.io/badge/Dexie.js-IndexedDB-orange?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌲 WildShire
-*A game built with Godot.*
-
-An in-development game project written in GDScript — world, systems and feel crafted from scratch.
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 Fauji Property
-*A property-focused web application.*
-
-Listings and property presentation built with modern JavaScript, designed to be clean, quick and trustworthy.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Website
-*Personal web presence.*
-
-A hand-styled CSS website — my sandbox for layout, typography and visual experiments.
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📂 More about these projects (click to expand)</b></summary>
-<br/>
-
-| Project | Type | Stack | Status |
-|---|---|---|---|
-| **Pixel Atlas Desktop** | Desktop app | Electron · React · TypeScript · Dexie | 🟢 Active |
-| **WildShire** | Game | Godot · GDScript | 🟢 Active |
-| **Fauji Property** | Web app | JavaScript · HTML · CSS | 🟡 In progress |
-| **Website** | Website | HTML · CSS | 🔵 Maintained |
-
-*Some projects are private while in development — ask me about them!*
-
-</details>
-
----
-
-## 🛠️ Tech stack
-
-<details open>
-<summary><b>Languages & frameworks</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,electron,nodejs,godot&theme=dark" alt="Languages and frameworks" />
-</p>
-
-</details>
-
-<details>
-<summary><b>Tools & workflow</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,windows&theme=dark" alt="Tools" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🌱 Currently learning</b></summary>
-<br/>
-
-- **Python** — automation, scripting and backend fundamentals
-- **Deeper TypeScript** — stricter types, cleaner architecture
-- **Game design** — systems, feel and game-loop polish
-
-</details>
-
----
-
-## 📊 GitHub stats
-
 <div align="center">
 
 <a href="https://github.com/OP-Devesh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OP-Devesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&icon_color=24C6DC&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="assets/hero.svg" width="100%" alt="Devesh Kumar — building desktop apps, games and web experiences" />
 </a>
-<a href="https://github.com/OP-Devesh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OP-Devesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC" alt="Top languages" />
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=OP-Devesh&theme=tokyonight&hide_border=true&background=0F0C29&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OP-Devesh&theme=tokyonight" alt="Profile details" />
+<img src="https://komarev.com/ghpvc/?username=OP-Devesh&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge&labelColor=0B0D14" alt="Profile views" />
+<a href="https://github.com/OP-Devesh?tab=followers"><img src="https://img.shields.io/github/followers/OP-Devesh?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=22D3EE&labelColor=0B0D14" alt="Followers" /></a>
+<img src="https://img.shields.io/badge/NOW%20BUILDING-PIXEL%20ATLAS-34D399?style=for-the-badge&labelColor=0B0D14" alt="Now building Pixel Atlas" />
 
 </div>
+
+<br/>
+
+<img src="assets/header-about.svg" width="100%" alt="01 — About" />
+
+<br/>
+
+<img src="assets/about.svg" width="100%" alt="const devesh = { role: 'Developer & Builder', learning: 'Python', openTo: ['collaboration'] }" />
 
 <details>
-<summary><b>📈 Contribution graph</b></summary>
+<summary><b>&nbsp;✦&nbsp; The human version</b> <sub>— click to expand</sub></summary>
 <br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OP-Devesh&bg_color=0f0c29&color=24C6DC&line=302b63&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-</div>
+
+I'm **Devesh** — a developer who turns ideas into polished, premium-feeling products. I work across **desktop software**, **games** and the **web**, and I care as much about how something *feels* as how it works: the motion, the spacing, the last 1% nobody asks for.
+
+- 🔭 **Currently** shipping a Windows wallpaper manager and building a Godot game
+- 🌱 **Learning** Python — automation, scripting and backend fundamentals
+- 🤝 **Open to** collaborations on creative apps, games and tooling
+- 🎧 **Fun fact:** I like music more than coding — it shapes how I think about rhythm and flow
+
 </details>
 
----
+<br/>
 
-## 🤝 Let's connect
+<img src="assets/header-projects.svg" width="100%" alt="02 — Things I'm building" />
+
+<br/>
+
+<p align="center">
+  <img src="assets/card-pixel-atlas.svg" width="49%" alt="Pixel Atlas Desktop — premium wallpaper discovery for Windows" />
+  <img src="assets/card-wildshire.svg" width="49%" alt="WildShire — a game built in Godot" />
+</p>
+<p align="center">
+  <img src="assets/card-fauji-property.svg" width="49%" alt="Fauji Property — property listings web app" />
+  <img src="assets/card-website.svg" width="49%" alt="Website — my playground for the web" />
+</p>
+
+<details>
+<summary><b>&nbsp;✦&nbsp; Project index</b> <sub>— stack &amp; status at a glance</sub></summary>
+<br/>
+
+| | Project | Type | Stack | Status |
+|:-:|---|---|---|---|
+| 🖼️ | **Pixel Atlas Desktop** | Desktop app | Electron · React · TypeScript · Dexie | 🟢 Active |
+| 🌲 | **WildShire** | Game | Godot · GDScript | 🟢 Active |
+| 🏠 | **Fauji Property** | Web app | JavaScript · HTML · CSS | 🟡 In progress |
+| 🌐 | **Website** | Website | HTML · CSS | 🔵 Maintained |
+
+<sub>Most of these are private while in development — happy to walk you through any of them.</sub>
+
+</details>
+
+<br/>
+
+<img src="assets/header-stack.svg" width="100%" alt="03 — What I build with" />
+
+<br/>
+
+<img src="assets/marquee.svg" width="100%" alt="Tech stack" />
+
+<details>
+<summary><b>&nbsp;✦&nbsp; Full toolkit</b> <sub>— by category</sub></summary>
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%"><sub><b>LANGUAGES</b></sub><br/><br/><img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark&perline=5" alt="Languages" /></td>
+<td align="center" width="33%"><sub><b>FRAMEWORKS &amp; ENGINES</b></sub><br/><br/><img src="https://skillicons.dev/icons?i=react,electron,nodejs,godot&theme=dark&perline=4" alt="Frameworks" /></td>
+<td align="center" width="33%"><sub><b>TOOLS</b></sub><br/><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4" alt="Tools" /></td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<img src="assets/header-stats.svg" width="100%" alt="04 — By the numbers" />
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OP-Devesh&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B0D14&border_color=1C2030&border_radius=18&title_color=22D3EE&text_color=C9D1E0&icon_color=8B5CF6&ring_color=22D3EE" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OP-Devesh&layout=compact&langs_count=6&bg_color=0B0D14&border_color=1C2030&border_radius=18&title_color=22D3EE&text_color=C9D1E0" height="180" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OP-Devesh&background=0B0D14&border=1C2030&stroke=1C2030&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=8B93A7&dates=8B93A7&border_radius=18" width="100%" alt="Contribution streak" />
+</p>
+
+<details>
+<summary><b>&nbsp;✦&nbsp; Contribution graph</b> <sub>— the last 30 days</sub></summary>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OP-Devesh&bg_color=0B0D14&color=8B93A7&title_color=22D3EE&line=22D3EE&point=8B5CF6&area=true&area_color=22D3EE&radius=18&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Contribution graph" />
+</details>
+
+<br/>
+
+<a href="https://github.com/OP-Devesh">
+  <img src="assets/footer.svg" width="100%" alt="Let's build something remarkable together" />
+</a>
 
 <div align="center">
-
-<a href="https://github.com/OP-Devesh"><img src="https://img.shields.io/badge/GitHub-OP--Devesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/OP-Devesh?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-24C6DC?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0f0c29" alt="Repositories" /></a>
-
-<br/><br/>
-
-<sub>⭐ If something here sparks an idea, let's build it together.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24c6dc,50:302b63,100:0f0c29&section=footer" alt="Footer" />
-
+<br/>
+<a href="https://github.com/OP-Devesh"><img src="https://img.shields.io/badge/FOLLOW-OP--Devesh-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D14&color=8B5CF6" alt="Follow on GitHub" /></a>
+<a href="https://github.com/OP-Devesh?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-22D3EE?style=for-the-badge&labelColor=0B0D14" alt="Explore repositories" /></a>
 </div>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="496" viewBox="0 0 1200 496" role="img" aria-label="About Devesh, written as a TypeScript object">
+<defs>
+  <clipPath id="c"><rect width="1200" height="496" rx="22"/></clipPath>
+  <filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="80"/></filter>
+  <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+.sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:'JetBrains Mono', 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace}
+.rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important} .rise,.ln{opacity:1}}
+
+.ln{opacity:0;animation:ln .5s ease-out forwards}
+@keyframes ln{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+.caret{animation:blink 1.05s steps(1) infinite} @keyframes blink{50%{opacity:0}}
+.sweep{animation:sweep 7s cubic-bezier(.6,0,.4,1) infinite}
+@keyframes sweep{0%{transform:translateX(-360px)}55%,100%{transform:translateX(1200px)}}
+.glow{animation:breathe 8s ease-in-out infinite alternate} @keyframes breathe{to{opacity:.12}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="1200" height="496" fill="#0B0D14"/>
+  <circle class="glow" cx="1050" cy="496" r="240" fill="#8B5CF6" opacity=".28" filter="url(#blur)"/>
+  <rect width="1200" height="58" fill="#FFFFFF" fill-opacity=".02"/>
+  <line x1="0" y1="58" x2="1200" y2="58" stroke="#1C2030"/>
+  <circle cx="34" cy="29" r="6.5" fill="#FF5F57"/><circle cx="56" cy="29" r="6.5" fill="#FEBC2E"/><circle cx="78" cy="29" r="6.5" fill="#28C840"/>
+  <rect x="110" y="14" width="150" height="30" rx="8" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <rect x="124" y="24" width="10" height="10" rx="2" fill="#3178C6"/>
+  <text class="mono" x="142" y="33.5" font-size="13" fill="#E6E8EF">devesh.ts</text>
+  <text class="mono" x="1170" y="34" font-size="12" letter-spacing="1.5" fill="#8B93A7" text-anchor="end">TYPESCRIPT · UTF-8</text>
+  <rect class="sweep" x="0" y="0" width="360" height="1.5" fill="url(#edge)"/>
+  <g class="ln" style="animation-delay:0.35s"><text class="mono" x="44" y="116" font-size="15" fill="#3A4154" text-anchor="end" dx="12">1</text><text class="mono" x="96" y="116" font-size="19" xml:space="preserve"><tspan fill="#C084FC">const </tspan><tspan fill="#67E8F9">devesh</tspan><tspan fill="#E6E8EF"> = {</tspan></text></g><g class="ln" style="animation-delay:0.53s"><text class="mono" x="44" y="150" font-size="15" fill="#3A4154" text-anchor="end" dx="12">2</text><text class="mono" x="96" y="150" font-size="19" xml:space="preserve"><tspan fill="#93C5FD">  role:     </tspan><tspan fill="#86EFAC">"Developer &amp; Builder"</tspan><tspan fill="#E6E8EF">,</tspan></text></g><g class="ln" style="animation-delay:0.71s"><text class="mono" x="44" y="184" font-size="15" fill="#3A4154" text-anchor="end" dx="12">3</text><text class="mono" x="96" y="184" font-size="19" xml:space="preserve"><tspan fill="#93C5FD">  building: </tspan><tspan fill="#E6E8EF">[</tspan><tspan fill="#86EFAC">"Pixel Atlas"</tspan><tspan fill="#E6E8EF">, </tspan><tspan fill="#86EFAC">"WildShire"</tspan><tspan fill="#E6E8EF">, </tspan><tspan fill="#86EFAC">"Fauji Property"</tspan><tspan fill="#E6E8EF">],</tspan></text></g><g class="ln" style="animation-delay:0.89s"><text class="mono" x="44" y="218" font-size="15" fill="#3A4154" text-anchor="end" dx="12">4</text><text class="mono" x="96" y="218" font-size="19" xml:space="preserve"><tspan fill="#93C5FD">  stack:    </tspan><tspan fill="#E6E8EF">[</tspan><tspan fill="#86EFAC">"TypeScript"</tspan><tspan fill="#E6E8EF">, </tspan><tspan fill="#86EFAC">"React"</tspan><tspan fill="#E6E8EF">, </tspan><tspan fill="#86EFAC">"Electron"</tspan><tspan fill="#E6E8EF">, </tspan><tspan fill="#86EFAC">"Godot"</tspan><tspan fill="#E6E8EF">],</tspan></text></g><g class="ln" style="animation-delay:1.07s"><text class="mono" x="44" y="252" font-size="15" fill="#3A4154" text-anchor="end" dx="12">5</text><text class="mono" x="96" y="252" font-size="19" xml:space="preserve"><tspan fill="#93C5FD">  learning: </tspan><tspan fill="#86EFAC">"Python"</tspan><tspan fill="#E6E8EF">,</tspan></text></g><g class="ln" style="animation-delay:1.25s"><text class="mono" x="44" y="286" font-size="15" fill="#3A4154" text-anchor="end" dx="12">6</text><text class="mono" x="96" y="286" font-size="19" xml:space="preserve"><tspan fill="#93C5FD">  openTo:   </tspan><tspan fill="#E6E8EF">[</tspan><tspan fill="#86EFAC">"collaboration"</tspan><tspan fill="#E6E8EF">, </tspan><tspan fill="#86EFAC">"creative builds"</tspan><tspan fill="#E6E8EF">],</tspan></text></g><g class="ln" style="animation-delay:1.43s"><text class="mono" x="44" y="320" font-size="15" fill="#3A4154" text-anchor="end" dx="12">7</text><text class="mono" x="96" y="320" font-size="19" xml:space="preserve"><tspan fill="#93C5FD">  funFact:  </tspan><tspan fill="#86EFAC">"music &gt; code"</tspan><tspan fill="#E6E8EF">,  </tspan><tspan fill="#5B6478">// most days, anyway</tspan></text></g><g class="ln" style="animation-delay:1.61s"><text class="mono" x="44" y="354" font-size="15" fill="#3A4154" text-anchor="end" dx="12">8</text><text class="mono" x="96" y="354" font-size="19" xml:space="preserve"><tspan fill="#E6E8EF">};</tspan></text></g><g class="ln" style="animation-delay:1.79s"><text class="mono" x="44" y="388" font-size="15" fill="#3A4154" text-anchor="end" dx="12">9</text><text class="mono" x="96" y="388" font-size="19" xml:space="preserve"></text></g><g class="ln" style="animation-delay:1.97s"><text class="mono" x="44" y="422" font-size="15" fill="#3A4154" text-anchor="end" dx="12">10</text><text class="mono" x="96" y="422" font-size="19" xml:space="preserve"><tspan fill="#67E8F9">devesh</tspan><tspan fill="#E6E8EF">.</tspan><tspan fill="#FDE68A">ship</tspan><tspan fill="#E6E8EF">();  </tspan><tspan fill="#5B6478">// always shipping</tspan></text></g><g class="ln" style="animation-delay:2.15s"><text class="mono" x="44" y="456" font-size="15" fill="#3A4154" text-anchor="end" dx="12">11</text><rect class="caret" x="96" y="436" width="11" height="24" rx="1.5" fill="#22D3EE"/></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="495" rx="21.5" fill="none" stroke="#1C2030"/>
+</svg>

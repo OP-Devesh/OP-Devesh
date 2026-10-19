@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Let's build something remarkable together">
+<defs>
+  <clipPath id="c"><rect width="1200" height="300" rx="28"/></clipPath>
+  <filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="70"/></filter>
+  <linearGradient id="t" gradientUnits="userSpaceOnUse" x1="0" x2="900" spreadMethod="repeat">
+    <stop offset="0" stop-color="#FFFFFF"/><stop offset=".33" stop-color="#C7D2FE"/><stop offset=".66" stop-color="#67E8F9"/><stop offset="1" stop-color="#FFFFFF"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="900 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity=".07"/></pattern>
+</defs>
+<style>
+.sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:'JetBrains Mono', 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace}
+.rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important} .rise,.ln{opacity:1}}
+
+.blob{transform-box:fill-box;transform-origin:center;animation:drift 14s ease-in-out infinite alternate}
+@keyframes drift{to{transform:translate(-120px,20px) scale(1.2)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 4s ease-out infinite}
+@keyframes ring{0%{transform:scale(.6);opacity:.5}100%{transform:scale(2.4);opacity:0}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="1200" height="300" fill="#07080D"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <circle class="blob" cx="820" cy="300" r="220" fill="#8B5CF6" opacity=".35" filter="url(#blur)"/>
+  <circle class="blob" style="animation-delay:-7s" cx="380" cy="0" r="200" fill="#22D3EE" opacity=".22" filter="url(#blur)"/>
+  <circle class="ring" cx="600" cy="150" r="120" fill="none" stroke="#fff" stroke-opacity=".10"/>
+  <circle class="ring" style="animation-delay:-2s" cx="600" cy="150" r="120" fill="none" stroke="#fff" stroke-opacity=".10"/>
+  <text class="mono rise" x="600" y="96" text-anchor="middle" font-size="13" letter-spacing="4" fill="#8B93A7">THANKS FOR SCROLLING</text>
+  <text class="sans rise" style="animation-delay:.15s" x="600" y="162" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="-1.8" fill="url(#t)">Let's build something remarkable.</text>
+  <text class="sans rise" style="animation-delay:.3s" x="600" y="204" text-anchor="middle" font-size="18" fill="#AEB6C7">Ideas, collaborations, or just a hello — my door is always open.</text>
+  <text class="mono rise" style="animation-delay:.45s" x="600" y="248" text-anchor="middle" font-size="14" fill="#22D3EE">github.com/OP-Devesh</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="299" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+</svg>
